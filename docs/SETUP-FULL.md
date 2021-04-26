@@ -88,7 +88,7 @@ autograding this assignment with Gradescope.  But in general, please try to foll
 
 Enter this into Heroku.com to create a new application as shown below.  
 
-If your app name is, for example, `jpa03-cgaucho`, then the eventual URL of this application is now, for example `https://jpa03-cgaucho.herokuapp.com`
+If your app name is, for example, `jpa03-cgaucho`, then the evsentual URL of this application is now, for example `https://jpa03-cgaucho.herokuapp.com`
 
 ![Create new app on Heroku](./images/heroku-new-app.gif)
 
